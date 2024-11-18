@@ -19,17 +19,3 @@ PHP 8.1+
 5.SqueakyDachshund
 Варианты команд : 1. sound 2. hunt
 2. Команда для запуска тестов vendor/bin/phpunit tests/
-
-# Структура 
-src 
-    Dachshund.php
-    Dog.php
-    PlushLabrador.php
-    Pug.php
-    ShibaInu.php
-    SqueakyDachshund.php
-tests
-    DogTest.php
-composer.json
-console.php
-README.md
